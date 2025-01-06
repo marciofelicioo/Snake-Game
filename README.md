@@ -6,4 +6,4 @@ OOP practices such as Encapsulation, Inheritance, Polymorphism, and Abstraction.
     <img src="Snake.svg" />
 </a>
 
-go to: [CodeCrafters](https://marciofelicioo.github.io/CodeCrafters/) to check this project.
+go to: [CodeCrafters](https://code-crafters-b6273b.gitlab.io/) to check this project.
